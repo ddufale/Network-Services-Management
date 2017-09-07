@@ -39,7 +39,7 @@ Open a command line and type the following:
   mod_muc_admin: {}
   ```
   
-  _Type your yourip address that you configured in the 3rd step second part in the [Installation & Setting up](https://github.com/ddufale/Network-Services-Management/blob/master/XMPP%20Server%20with%20ejabberd%20Community%20Server%2017.04%20on%20Ubuntu%2016.04%20LTS/Installation%20%26%20Setting%20up.md)_, _save and exit_.
+  _Type your yourip address that you configured in the 3rd step second part in the [Installation & Setting up](https://github.com/ddufale/Network-Services-Management/blob/master/ejabberd%20Community%20Server%2016.04%20on%20Ubuntu%2016.04%20LTS/Installation%20%26%20Setting%20up.md)_, _save and exit_.
 
 4. Type the following lines on the terminal:
     * Create a room chat
