@@ -97,11 +97,12 @@ for specific requests to different domains.
           sudo nano /etc/hosts
    
    * Then, add these lines to especify your IP address and the domain name to be mapped
-          ...
-          yourip    www.agua.com
-          yourip    www.leche.com
-          yourip    www.refresco.com
-          ...
+   
+           ...
+           yourip    www.agua.com
+           yourip    www.leche.com
+           yourip    www.refresco.com
+           ...
           
    Save and exit.
    
