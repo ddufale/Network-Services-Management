@@ -9,7 +9,7 @@ This repository will contain the step-by-step of the following tasks:
 - [x] 5. Customization of server log formats and levels
 - [ ] 6. Access:
     - [x] By IP
-    - [ ] By network segment
+    - [x] By network segment
     - [ ] By domain name
     - [ ] By user
     - [ ] By user/password list
