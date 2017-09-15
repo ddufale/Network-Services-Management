@@ -10,8 +10,8 @@ This repository will contain the step-by-step of the following tasks:
 - [ ] 6. Access:
     - [x] By IP
     - [x] By network segment
-    - [ ] By domain name
-    - [ ] By user
-    - [ ] By user/password list
+    - [ ] By domain name (optional)
+    - [x] By user
+    - [x] By user/password list
     
 - [ ] 7. Automated operation summary by server (Every 10 seconds)
