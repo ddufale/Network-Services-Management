@@ -128,6 +128,9 @@ _Note Always restart service if you modified the snmpd.conf file._
 **7.** Test
  
     snmpwalk -v 2c -c publica -O e localhost > Desktop/test.txt
+    
+* publica: community name
+* localhost: machine ip
 
 
 _Note You will a new file in your desktop named test.txt, these file contains response from machine._
